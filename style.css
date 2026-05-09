@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(17, 127, 223);
+    color: rgb(202, 123, 123);
+}
